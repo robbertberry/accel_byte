@@ -1,0 +1,17 @@
+[
+   {
+    "timestamp": "2022-02-01T00:00:50.52Z",
+    "level_name": "lobby_screen1",
+    "value": 74
+  },
+  {
+    "timestamp": "2022-01-01T00:23:51.21Z",
+    "level_name": "level2",
+    "value": 126
+  },
+  {
+    "timestamp": "2022-01-01T23:04:12.55Z",
+    "level_name": "lobby_screen1",
+    "value": 89
+  }
+]
